@@ -5,7 +5,6 @@ A node.js application that uses user input from inquirer to generate a README.md
 
 ## Table of contents 
 * [Description](#Description)
-* [Table of contents](#Table of contents)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#contributing)
