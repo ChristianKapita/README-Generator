@@ -25,13 +25,10 @@ This application is covered by the ${answers.license} license.
 ${answers.contributing}
 ## Tests
  ${answers.tests}
-## Questions
-${answers.questions}<br />
 <br />
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 Email me if having any  questions ${answers.email}<br /><br />
     `;
   }
-  
   module.exports = generateReadme;
